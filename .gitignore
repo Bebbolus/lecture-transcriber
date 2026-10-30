@@ -1,0 +1,24 @@
+# Download generati
+downloads/
+*.m4a
+*.mp3
+*.part
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# macOS
+.DS_Store
+._*
+
+# Editor
+*.swp
+*.swo
+
+# Configurazioni locali
+.env
+.env.local
+udemy_cookies.txt
